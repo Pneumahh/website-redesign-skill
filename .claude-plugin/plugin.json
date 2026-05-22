@@ -1,0 +1,11 @@
+{
+  "name": "website-redesign-skill",
+  "description": "End-to-end website redesign workflow: discovery, design system, component sourcing, section build, motion, UX polish, assets, and pre-delivery review.",
+  "author": {
+    "name": "akashsahu0612",
+    "url": "https://github.com/akashsahu0612"
+  },
+  "homepage": "https://github.com/akashsahu0612/website-redesign-skill",
+  "repository": "https://github.com/Pneumahh/website-redesign-skill",
+  "keywords": ["webdesign", "redesign", "ui", "ux", "tailwind", "framer-motion", "shadcn"]
+}

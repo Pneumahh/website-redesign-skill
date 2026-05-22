@@ -1,0 +1,19 @@
+{
+  "name": "website-redesign",
+  "owner": {
+    "name": "Pneumahh",
+    "url": "https://github.com/Pneumahh"
+  },
+  "metadata": {
+    "description": "End-to-end website redesign skill, packaged as a Claude Code plugin. Vendored from akashsahu0612/website-redesign-skill.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "website-redesign-skill",
+      "source": "./",
+      "description": "Phased website redesign workflow (discovery → design system → build → motion → polish → review). Invoke with /website-redesign.",
+      "category": "web-design"
+    }
+  ]
+}
